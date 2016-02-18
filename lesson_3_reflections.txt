@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 by email and save the versions locally, waste time and low efficiency.
 easy for the people who does have the code knowledge.
 hard for version-control and collabrate
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+networking and collaborate and not broke the main master.
