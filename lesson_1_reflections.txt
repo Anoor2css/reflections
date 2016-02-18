@@ -1,0 +1,33 @@
+It's really very useful to compare the differences between two similar works with the FT in the command prompt.
+It's also very interesting to use the gitbash to learn something new and do the version controls.
+2016-02-16, 6:34pm
+First try with gitbash and sublime, nice :)
+
+
+Reflect: Using History for Efficiency
+1, Efficiency absolutely!
+2, like Dropbox, Google Docs, Wikipedia etc.
+
+Reflect: Manual Commits
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: It can gruante that each commit have one clear, logical purpose, and you should never do too much work without committing
+cons: may forget to update and save the commit timely
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Maybe it is not easy for google docs to handle this trick, it is usually not necessary for people to commit the multiple files at the same except for the coder.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log can show all the commit histoty 
+git diff can diff the two commits for differences.
+
+How might using version control make you more confident to make changes that could break something?
+git checkout 
+git diff
+git log
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Code and Build personal blog 
