@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 pull changes manually can make a better backup, as we can automatically stay changes on the local repository, no need to update all online, the remote repository should be a rather complete and readable 
 there is a buffer before push all the commits to remote repository
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks: clone from others' repository (online) to my remote repository on Github
+clones: from local to local or from online to local
+branches: local computer to add a new subbranch to add some new but not 
+exactly needed to be on the master branch.
