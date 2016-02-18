@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+collabrate with other guys, or just do some remote work which just online
