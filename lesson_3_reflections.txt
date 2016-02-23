@@ -28,3 +28,5 @@ hard for version-control and collabrate
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
 networking and collaborate and not broke the main master.
+
+Update
